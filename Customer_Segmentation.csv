@@ -1,0 +1,13 @@
+AgeSpend,TotalSpend,CustomerSpread
+25-40,High Spend,2468
+25-40,Low Spend,90
+25-40,Medium Spend,270
+41-60,High Spend,3096
+41-60,Low Spend,132
+41-60,Medium Spend,331
+Above 60,High Spend,4363
+Above 60,Low Spend,184
+Above 60,Medium Spend,493
+Under 25,High Spend,406
+Under 25,Low Spend,15
+Under 25,Medium Spend,39
